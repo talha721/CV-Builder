@@ -1,0 +1,25 @@
+{
+  "user_data": [
+    {
+      "name": "Talha Moazzam",
+      "email": "talhamoazzam4118@gmail.com",
+      "phone": "03234772012",
+      "city": "Lahore",
+      "address": "Mall Road",
+      "projectTitle": "React App",
+      "projectDescription": "CV Builder Application",
+      "projectStartDate": "2021-09-28",
+      "projectEndDate": "2021-09-30",
+      "degreeName": "BS Software Engineering",
+      "uniName": "University Of Lahore",
+      "uniStartYear": "2015",
+      "uniEndYear": "2020",
+      "jobTitle": "React Front End Developer",
+      "companyName": "DevBunch",
+      "companyLocation": "Sun Flower Garden Thokar",
+      "yearOfExperience": "1",
+      "promotions": "2",
+      "id": 2
+    }
+  ]
+}
